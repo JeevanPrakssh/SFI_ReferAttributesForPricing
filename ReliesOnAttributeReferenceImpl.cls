@@ -63,7 +63,6 @@ public class ReliesOnAttributeReferenceImpl implements vlocity_cmt.VlocityOpenIn
             }
         
         
-        scope = 'Quote'; 
         if(scope == 'Quote')
         {
             
