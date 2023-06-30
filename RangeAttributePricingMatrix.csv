@@ -1,0 +1,5 @@
+Source Product Name,Source Product Code,Characteristic Name,Characteristic Value,Contract Duration,Quantity,Related Product Char Name,Related Product Char Value,Target Product Name,MRC,NRC,Currency,Monthly Cost,One Time Cost,Recurring Fixed Cost,Recurring Shared Incremental Cost,Recurring Pure Incremental Cost,One Off Fixed Cost
+Product1,PRD_001,Commercial Model,Per Channel,ANY,1,Brand;Level of Location Awareness,Cisco;Global,Product1,0,937.57,GBP,0,97.73,0,0,0,0
+Producr1,PRD_001,Commercial Model,Per User,ANY,1,Brand;Level of Location Awareness,VMWare;Global,Product1,0,957.57,GBP,0,98.73,0,0,0,0
+Product2,PRD_002,Network Access Type,Cloud,ANY,1,NA,NA,Product2,0,0,GBP,0,436.97,0,0,0,0
+Product2,PRD_002,Network Access Type,Internet,ANY,1,NA,NA,Product2,0,0,GBP,0,436.97,0,0,0,0
