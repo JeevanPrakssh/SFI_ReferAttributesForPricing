@@ -1,4 +1,4 @@
-global with sharing class PricingPlanHelperReferAtt implements vlocity_cmt.VlocityOpenInterface, Callable
+global with sharing class PricingPlanHelper implements vlocity_cmt.VlocityOpenInterface, Callable
 {
     private static Boolean isLogging = false;
     private static String JSON_ATTR_FLD = 'vlocity_cmt__JSONAttribute__c';
